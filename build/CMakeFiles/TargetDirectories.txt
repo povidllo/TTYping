@@ -1,3 +1,0 @@
-/home/maksim/books/TTYping/build/CMakeFiles/TTYping.dir
-/home/maksim/books/TTYping/build/CMakeFiles/edit_cache.dir
-/home/maksim/books/TTYping/build/CMakeFiles/rebuild_cache.dir
